@@ -1,0 +1,42 @@
+button {position:absolute;
+  background-color:#3399ff;
+  border: none;
+  color: navy;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;}
+body{background-color: pink;}
+
+  img {border-radius: 8px;
+  align-items:center; 
+}
+.container {
+  position: relative;
+  float:left;
+}
+
+.bottomleft {
+  position: absolute;
+  bottom: 8px;
+  color:white;
+  left: 16px;
+  font-size: 18px;}
+  
+  .cat{font-size:170%;
+    position:relative;
+    color:gray;}
+
+    ul,li{ 
+      margin:auto;
+      padding:5px;}
+
+   ul+li{color:#d11aff;}
+
+
+  p{color:navy;
+    position: relative;
+    font-size:190%;
+    left: 10px;
+ }

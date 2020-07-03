@@ -1,0 +1,32 @@
+th,td {
+  padding: 15px;
+  text-align: left;
+  border: 1px solid black;
+  background:#e6f2ff;
+  text-align: center;
+  color:navy;
+}
+
+p{
+color:navy;
+    position: relative;
+    font-size:190%;
+    left: 10px;}
+
+@media only screen and (min-width: 600px) {
+  body {
+    background-color:  lightblue;}}
+    @media only screen and (max-width: 600px) {
+  body {
+    background-color:pink ;
+  }
+}
+#top{color:#d11aff;
+padding:10px;
+text-transform:uppercase ;
+}
+
+.cats{color:navy;
+	text-transform:uppercase;
+padding:10px;}
+
